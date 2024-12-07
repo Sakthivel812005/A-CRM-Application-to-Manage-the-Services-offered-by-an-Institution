@@ -1,4 +1,4 @@
-welcome to everyone this is our project github repo
+welcome to everyone this is our project github report
 our project name is A CRM APPLICATION TOMANAGE THE SERVICES OFFERED BY AN INSTITUTION
 our team contain 4 members 
 team leader is V.MOHAN
